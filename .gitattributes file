@@ -1,6 +1,7 @@
+*.sql linguist-language=sql
+*.my linguist-language=sql
 *.css linguist-detectable=false
 *.c++ linguist-detectable=false
 *.java linguist-detectable=true
 *.sql linguist-detectable=true
-*.sql linguist-language=sql
-*.my linguist-language=sql
+
