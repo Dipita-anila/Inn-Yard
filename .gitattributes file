@@ -4,4 +4,5 @@
 *.c++ linguist-detectable=false
 *.java linguist-detectable=true
 *.sql linguist-detectable=true
+*.c linguist-detectable=true
 
